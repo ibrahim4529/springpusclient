@@ -1,7 +1,7 @@
 ## SPRINGPUS CLIENT 
 
 This repo contain a client app for my project 
-Springpus [Springpus](github.com/ibrahim4529/springpus)
+Springpus [Springpus](https://github.com/ibrahim4529/springpus)
 
 
 ## HOW TO RUN
